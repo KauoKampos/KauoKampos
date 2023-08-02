@@ -14,8 +14,7 @@ Certificates:
 - 💻 1 Cyber Leader Program;
 
 
-*OBA stands for: Brazilian Astronomy and Astronautics Olympiad;   
-I have two OBA medals. One for third place and one for first place.
+*OBA stands for: Brazilian Astronomy and Astronautics Olympiad;
     
 Tecnologies I work with:
 

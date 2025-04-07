@@ -1,36 +1,37 @@
-👋🤖 Hello world!
+# 👋🤖 Hello, world!
 
-🖥️🖱️ My name is Kauã Campos and I'm a web developer.  
-Currently studying at: SENAI "Ricardo Lerner", Cotia - SP.
+Olá! Me chamo **Kauã Campos Jaquetoni** e sou um apaixonado por tecnologia e desenvolvimento web.  
+📚 Atualmente estudo na **Faculdade SESI de Educação**, em São Paulo - SP.
 
+## 🚀 Sobre mim
 
-- Languages I'm studying: Java, JS, HTML, CSS, GML. 
-- Services I'm studying: Microsoft Azure. 
+- 🖥️ Desenvolvedor web em formação, explorando o mundo da programação e da tecnologia.
+- 📚 Estudando as linguagens **PHP** e **Python**.
+- 🔧 Aprendendo sobre **WordPress** e suas funcionalidades para desenvolvimento de sites.
 
-Certificates:
+## 📜 Certificados
 
-- 🥇 2 OBA* (Olimpíada Brasileira de Astronomia e Astronáutica);
-- ☁️ 1 Microsoft Azure (Conclusion);
-- 💻 1 Cyber Leader Program;
+- 🥇 **2x Medalhista** na *OBA* (Olimpíada Brasileira de Astronomia e Astronáutica)  
+- 💾 **AWS Fundamentals** – Amazon Web Services  
+- ☁️ **Microsoft Azure** – Fundamentos da nuvem  
+- 💻 **Cyber Leader Program** – Segurança da Informação
 
+## 🛠️ Tecnologias que utilizo
 
-*OBA stands for: Brazilian Astronomy and Astronautics Olympiad;
-    
-Tecnologies I work with:
+- 🤖 Inteligências Artificiais  
+- ✏️ Figma – Design de interfaces  
+- 👥 Microsoft Teams  
+- ☁️ Microsoft Azure  
+- 📖 HTML5, CSS3, JavaScript, Java, Handlebars
 
-- 🤖 AIs; 
-- ✏️ Figma; 
-- 👥 Microsoft Teams; 
-- ☁️ Microsoft Azure; 
-- 📖 JS, HTML, CSS and GML; 
+## 🔮 Tecnologias que quero explorar
 
-Tecnologies I intend to work with:
+- 📘 C#, C++, Python, React e muito mais!
 
-- ☁️ Amazon Web Services;
-- 📘 C#, C++, Phyton, React and more;
+## 🤝 Vamos colaborar?
 
-Let's collaborate! Contact me here:
+Entre em contato comigo pelas redes:
 
-- ✉️ E-mail - jaquetonikaua@gmail.com
-- 🐦 Twitter - @kamposKauo
-- 📷 Instagram - @kauokampos
+- ✉️ **E-mail:** jaquetonikaua@gmail.com  
+- 🐦 **X (antigo Twitter):** [@KauaJaquetoni](https://x.com/KauaJaquetoni)  
+- 💼 **LinkedIn:** [Kauã Jaquetoni](https://www.linkedin.com/in/kauã-jaquetoni-844612266/)
